@@ -1,0 +1,42 @@
+.red{
+    color: red;
+}
+.green{
+    color: limegreen;
+}
+.blue{
+    color: blue;
+}
+.BIGGER{
+    font-weight: bolder;
+    font-size: x-large;
+}
+.left{
+    width: 49%;
+    float: left;
+}
+.right{
+    width: 49%;
+    float: right;
+}
+h1{
+    margin-left: 30%;
+}
+p{
+    margin-bottom: 0;
+}
+a.btn{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    padding: 5px;
+    background: firebrick;
+    color: white;
+}
+.bgTxt{
+    font-size: 16pt;
+}
+input{
+    margin-bottom: 10px;
+}
